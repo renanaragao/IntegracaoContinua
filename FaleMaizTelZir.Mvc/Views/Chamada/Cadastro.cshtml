@@ -1,0 +1,69 @@
+﻿@{
+    ViewBag.Title = "Cadastro";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Cadastro</h2>
+
+<div class="row" data-ng-controller="chamadaController">
+    <div class="col-md-12" data-ng-show="alerta.show">
+        <div class="alert alert-danger alert-dismissible" role="alert">
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <strong>Error!</strong> <span data-ng-bind="alerta.mensagem"></span>
+        </div>
+    </div>
+    <div class="col-md-12">
+        <div class="panel panel-default">
+            <div class="panel-heading"></div>
+            <div class="panel-body">
+                <div class="col-md-12">
+                    <table class="table table-striped table-bordered" data-ng-show="chamadas.length > 0">
+                        <thead>
+                            <tr>
+                                <td>Origem</td>
+                                <td>Destino</td>
+                                <td>Valor/Minuto</td>
+                                <td></td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr data-ng-repeat="chamada in chamadas" data-ng-class="{'has-error': chamada.duplicado}">
+                                <td>
+                                    <select class="form-control" data-ng-change="selectOrigem(chamada)" data-ng-model="chamada.Origem">
+                                        <option value="0">SELECIONE</option>
+                                        <option value="11">11</option>
+                                        <option value="16">16</option>
+                                        <option value="17">17</option>
+                                        <option value="18">18</option>
+                                    </select>
+                                </td>
+                                <td>
+                                    <select class="form-control" data-ng-change="selectDestino(chamada)" data-ng-model="chamada.Destino">
+                                        <option value="0">SELECIONE</option>
+                                        <option value="11">11</option>
+                                        <option value="16">16</option>
+                                        <option value="17">17</option>
+                                        <option value="18">18</option>
+                                    </select>
+                                </td>
+                                <td>
+                                    <input type="text" value="" data-money data-ng-change="changeValorPorMinuto(chamada)" data-ng-model="chamada.ValorPorMinuto" class="form-control" />
+                                </td>
+                                <td>
+                                    <button class="btn btn-sm btn-success" data-ng-show="chamada.alterado" data-ng-click="salvar(chamada)">
+                                        <span class="glyphicon glyphicon-floppy-disk"></span>
+                                    </button>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="col-md-12">
+                    <button class="btn btn-sm btn-primary" data-ng-click="adicionarChamada({})">
+                        <span class="glyphicon glyphicon-plus"></span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

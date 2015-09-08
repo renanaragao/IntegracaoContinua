@@ -1,0 +1,5 @@
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Dominio\bin\Debug\FaleMaisTelZir.Dominio.dll
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Dominio\bin\Debug\FaleMaisTelZir.Dominio.pdb
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Dominio\obj\Debug\FaleMaisTelZir.Dominio.dll
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Dominio\obj\Debug\FaleMaisTelZir.Dominio.pdb
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Dominio\obj\Debug\FaleMaisTelZir.Dominio.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Infraestrutura\bin\Debug\FaleMaisTelZir.Infraestrutura.dll.config
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Infraestrutura\bin\Debug\FaleMaisTelZir.Infraestrutura.dll
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Infraestrutura\bin\Debug\FaleMaisTelZir.Infraestrutura.pdb
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Infraestrutura\bin\Debug\EntityFramework.dll
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Infraestrutura\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Infraestrutura\bin\Debug\FaleMaisTelZir.Dominio.dll
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Infraestrutura\bin\Debug\FaleMaisTelZir.Dominio.pdb
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Infraestrutura\bin\Debug\EntityFramework.xml
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Infraestrutura\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Infraestrutura\obj\Debug\FaleMaisTelZir.Infraestrutura.csprojResolveAssemblyReference.cache
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Infraestrutura\obj\Debug\FaleMaisTelZir.Infraestrutura.dll
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Infraestrutura\obj\Debug\FaleMaisTelZir.Infraestrutura.pdb

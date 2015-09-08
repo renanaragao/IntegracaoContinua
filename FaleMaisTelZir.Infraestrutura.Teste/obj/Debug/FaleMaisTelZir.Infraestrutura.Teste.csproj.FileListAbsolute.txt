@@ -1,0 +1,17 @@
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Infraestrutura.Teste\bin\Debug\FaleMaisTelZir.Infraestrutura.Teste.dll
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Infraestrutura.Teste\bin\Debug\FaleMaisTelZir.Infraestrutura.Teste.pdb
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Infraestrutura.Teste\obj\Debug\FaleMaisTelZir.Infraestrutura.Teste.csprojResolveAssemblyReference.cache
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Infraestrutura.Teste\obj\Debug\FaleMaisTelZir.Infraestrutura.Teste.dll
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Infraestrutura.Teste\obj\Debug\FaleMaisTelZir.Infraestrutura.Teste.pdb
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Infraestrutura.Teste\bin\Debug\FaleMaisTelZir.Infraestrutura.Teste.dll.config
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Infraestrutura.Teste\bin\Debug\EntityFramework.dll
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Infraestrutura.Teste\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Infraestrutura.Teste\bin\Debug\FaleMaisTelZir.Dominio.dll
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Infraestrutura.Teste\bin\Debug\FaleMaisTelZir.Infraestrutura.dll
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Infraestrutura.Teste\bin\Debug\FizzWare.NBuilder.dll
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Infraestrutura.Teste\bin\Debug\Moq.dll
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Infraestrutura.Teste\bin\Debug\FaleMaisTelZir.Dominio.pdb
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Infraestrutura.Teste\bin\Debug\FaleMaisTelZir.Infraestrutura.pdb
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Infraestrutura.Teste\bin\Debug\EntityFramework.xml
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Infraestrutura.Teste\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Infraestrutura.Teste\bin\Debug\Moq.xml

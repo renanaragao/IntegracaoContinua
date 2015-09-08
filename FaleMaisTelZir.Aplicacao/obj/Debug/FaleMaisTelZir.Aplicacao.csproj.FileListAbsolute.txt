@@ -1,0 +1,7 @@
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Aplicacao\bin\Debug\FaleMaisTelZir.Aplicacao.dll
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Aplicacao\bin\Debug\FaleMaisTelZir.Aplicacao.pdb
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Aplicacao\obj\Debug\FaleMaisTelZir.Aplicacao.csprojResolveAssemblyReference.cache
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Aplicacao\obj\Debug\FaleMaisTelZir.Aplicacao.dll
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Aplicacao\obj\Debug\FaleMaisTelZir.Aplicacao.pdb
+C:\Users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Aplicacao\bin\Debug\FaleMaisTelZir.Dominio.dll
+C:\Users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Aplicacao\bin\Debug\FaleMaisTelZir.Dominio.pdb

@@ -1,0 +1,10 @@
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Dominio.Teste\bin\Debug\FaleMaisTelZir.Dominio.Teste.dll
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Dominio.Teste\bin\Debug\FaleMaisTelZir.Dominio.Teste.pdb
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Dominio.Teste\obj\Debug\FaleMaisTelZir.Dominio.Teste.csprojResolveAssemblyReference.cache
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Dominio.Teste\obj\Debug\FaleMaisTelZir.Dominio.Teste.dll
+c:\users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Dominio.Teste\obj\Debug\FaleMaisTelZir.Dominio.Teste.pdb
+C:\Users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Dominio.Teste\bin\Debug\FaleMaisTelZir.Dominio.dll
+C:\Users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Dominio.Teste\bin\Debug\FizzWare.NBuilder.dll
+C:\Users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Dominio.Teste\bin\Debug\Moq.dll
+C:\Users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Dominio.Teste\bin\Debug\FaleMaisTelZir.Dominio.pdb
+C:\Users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelZir.Dominio.Teste\bin\Debug\Moq.xml

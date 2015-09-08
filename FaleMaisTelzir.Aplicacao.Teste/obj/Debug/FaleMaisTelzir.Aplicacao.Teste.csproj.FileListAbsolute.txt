@@ -1,0 +1,12 @@
+C:\Users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelzir.Aplicacao.Teste\bin\Debug\FaleMaisTelzir.Aplicacao.Teste.dll
+C:\Users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelzir.Aplicacao.Teste\bin\Debug\FaleMaisTelzir.Aplicacao.Teste.pdb
+C:\Users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelzir.Aplicacao.Teste\bin\Debug\FaleMaisTelZir.Aplicacao.dll
+C:\Users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelzir.Aplicacao.Teste\bin\Debug\FaleMaisTelZir.Dominio.dll
+C:\Users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelzir.Aplicacao.Teste\bin\Debug\FizzWare.NBuilder.dll
+C:\Users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelzir.Aplicacao.Teste\bin\Debug\Moq.dll
+C:\Users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelzir.Aplicacao.Teste\bin\Debug\FaleMaisTelZir.Aplicacao.pdb
+C:\Users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelzir.Aplicacao.Teste\bin\Debug\FaleMaisTelZir.Dominio.pdb
+C:\Users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelzir.Aplicacao.Teste\bin\Debug\Moq.xml
+C:\Users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelzir.Aplicacao.Teste\obj\Debug\FaleMaisTelzir.Aplicacao.Teste.csprojResolveAssemblyReference.cache
+C:\Users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelzir.Aplicacao.Teste\obj\Debug\FaleMaisTelzir.Aplicacao.Teste.dll
+C:\Users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaisTelzir.Aplicacao.Teste\obj\Debug\FaleMaisTelzir.Aplicacao.Teste.pdb
