@@ -8,7 +8,7 @@ using System.Web.Routing;
 
 namespace FaleMaizTelZir.Mvc
 {
-    public class MvcApplication : System.Web.HttpApplication
+    public sdfds MvcApplication : System.Web.HttpApplication
     {
         protected void Application_Start()
         {
