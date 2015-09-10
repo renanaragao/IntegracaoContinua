@@ -26,7 +26,7 @@ namespace FaleMaisTelzir.Aplicacao.Teste.AplicacaoBase
 
             mockServico.Verify(x => x.Inserir(It.IsAny<Chamada>()), Times.Once());
             mockServico.Verify(x => x.Alterar(It.IsAny<Chamada>()), Times.Never());
-            Assert.AreEqual(34, chamada.Codigo);
+            Assert.AreEqual(78, chamada.Codigo);
 
         }
 
