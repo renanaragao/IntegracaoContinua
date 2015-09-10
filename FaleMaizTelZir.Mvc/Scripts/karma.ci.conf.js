@@ -67,7 +67,7 @@ module.exports = function (config) {
         browsers: ['PhantomJS'],
 
 
-        plugins: ['karma-jasmine', 'karma-phantomjs-launcher'],
+        plugins: ['karma-jasmine', 'karma-phantomjs-launcher', 'karma-junit-reporter'],
         // Continuous Integration mode
         // if true, Karma captures browsers, runs the tests and exits
         singleRun: true,
