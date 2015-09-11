@@ -49,7 +49,7 @@
 
         runs(function () {
 
-            expect(chamada.Codigo).toEqual(78);
+            expect(chamada.Codigo).toEqual(23);
 
         });
 
