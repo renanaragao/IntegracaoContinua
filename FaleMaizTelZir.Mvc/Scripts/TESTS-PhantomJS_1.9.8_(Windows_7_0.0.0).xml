@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<testsuite name="PhantomJS 1.9.8 (Windows 7 0.0.0)" package="" timestamp="2015-09-10T19:42:10" id="0" hostname="CIT008280CPS" tests="19" errors="0" failures="0" time="0.055">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"/>
+  </properties>
+  <testcase name="Deve salvar uma chamada" time="0.018" classname="PhantomJS_1_9_8_(Windows_7_0_0_0).ChamadaController - "/>
+  <testcase name="Deve mostrar um alerta caso ocorra algum erro ao salvar uma chamada" time="0.002" classname="PhantomJS_1_9_8_(Windows_7_0_0_0).ChamadaController - "/>
+  <testcase name="Deve carregar as chamadas" time="0.002" classname="PhantomJS_1_9_8_(Windows_7_0_0_0).ChamadaController - "/>
+  <testcase name="Quando selecionar a origem, deve marca a chamada como alterada true" time="0.001" classname="PhantomJS_1_9_8_(Windows_7_0_0_0).ChamadaController - "/>
+  <testcase name="Quando selecionar um destino, deve marca a chamada como alterada true" time="0.001" classname="PhantomJS_1_9_8_(Windows_7_0_0_0).ChamadaController - "/>
+  <testcase name="Quando selecionar o destino, deve marcar as chamadas duplicadas" time="0.002" classname="PhantomJS_1_9_8_(Windows_7_0_0_0).ChamadaController - "/>
+  <testcase name="Quando selecionar a origem, deve marcar as chamadas duplicadas" time="0.003" classname="PhantomJS_1_9_8_(Windows_7_0_0_0).ChamadaController - "/>
+  <testcase name="Deve adicionar uma chamada" time="0.002" classname="PhantomJS_1_9_8_(Windows_7_0_0_0).ChamadaController - "/>
+  <testcase name="Quando selecionar a origem, deve filtrar as chamadas" time="0.001" classname="PhantomJS_1_9_8_(Windows_7_0_0_0).ChamadaController - "/>
+  <testcase name="Quando selecionar o destino, deve filtrar as chamadas" time="0.002" classname="PhantomJS_1_9_8_(Windows_7_0_0_0).ChamadaController - "/>
+  <testcase name="Quando mudar o valor por minuto, deve marcar a chamada como alterada true" time="0.001" classname="PhantomJS_1_9_8_(Windows_7_0_0_0).ChamadaController - "/>
+  <testcase name="Deve calcular os valores das chamadas sem plano e com plano" time="0.001" classname="PhantomJS_1_9_8_(Windows_7_0_0_0).ChamadaController - "/>
+  <testcase name="Deve salvar uma chamada" time="0.001" classname="PhantomJS_1_9_8_(Windows_7_0_0_0).chamadaService - "/>
+  <testcase name="Deve retornar as chmadas" time="0.001" classname="PhantomJS_1_9_8_(Windows_7_0_0_0).chamadaService - "/>
+  <testcase name="Deve marcar as chamadas duplicadas" time="0.001" classname="PhantomJS_1_9_8_(Windows_7_0_0_0).chamadaService - "/>
+  <testcase name="Deve calcular o valor da ligação" time="0.001" classname="PhantomJS_1_9_8_(Windows_7_0_0_0).chamadaService - "/>
+  <testcase name="Deve verificar se é um número" time="0" classname="PhantomJS_1_9_8_(Windows_7_0_0_0).Global - "/>
+  <testcase name="Deve converter uma string em um número" time="0" classname="PhantomJS_1_9_8_(Windows_7_0_0_0).Global - "/>
+  <testcase name="Deve fazer o binding tipado na model." time="0.015" classname="PhantomJS_1_9_8_(Windows_7_0_0_0).Number - "/>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
