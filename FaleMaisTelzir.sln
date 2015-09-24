@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Apresentacao", "1 - Apresentacao", "{4B59B30E-B2B9-46E4-8D86-084397F2CDC1}"
 EndProject
@@ -37,6 +37,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{37B2E8
 		.nuget\NuGet.exe = .nuget\NuGet.exe
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaleMaisTelZir.Mvc.Selenium.Teste", "FaleMaisTelZir.Mvc.Selenium.Teste\FaleMaisTelZir.Mvc.Selenium.Teste.csproj", "{CF2EC925-C9C1-45DE-9B0F-E63E4F9B72EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -76,6 +78,10 @@ Global
 		{CBAF1560-AF41-42E6-A967-3B9B5CAE2D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBAF1560-AF41-42E6-A967-3B9B5CAE2D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBAF1560-AF41-42E6-A967-3B9B5CAE2D53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF2EC925-C9C1-45DE-9B0F-E63E4F9B72EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2EC925-C9C1-45DE-9B0F-E63E4F9B72EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2EC925-C9C1-45DE-9B0F-E63E4F9B72EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2EC925-C9C1-45DE-9B0F-E63E4F9B72EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -91,5 +97,6 @@ Global
 		{F2C6FF94-9716-4F27-BEDC-C02356BA66CA} = {4B59B30E-B2B9-46E4-8D86-084397F2CDC1}
 		{1EB37EEF-4DC3-4DF3-A3F7-B54567678E60} = {4B59B30E-B2B9-46E4-8D86-084397F2CDC1}
 		{CBAF1560-AF41-42E6-A967-3B9B5CAE2D53} = {02B6514D-AE1D-4159-8FAB-891ABD88D3EB}
+		{CF2EC925-C9C1-45DE-9B0F-E63E4F9B72EC} = {4B59B30E-B2B9-46E4-8D86-084397F2CDC1}
 	EndGlobalSection
 EndGlobal

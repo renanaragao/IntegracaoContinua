@@ -37,3 +37,42 @@ C:\Users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleM
 C:\Users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaizTelZir.Mvc\bin\EntityFramework.xml
 C:\Users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaizTelZir.Mvc\bin\Microsoft.Practices.Unity.xml
 C:\Users\renan.aragao\documents\visual studio 2013\Projects\FaleMaisTelzir\FaleMaizTelZir.Mvc\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\FaleMaizTelZir.Mvc.dll.config
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\FaleMaizTelZir.Mvc.dll
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\FaleMaizTelZir.Mvc.pdb
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\Antlr3.Runtime.dll
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\EntityFramework.dll
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\FaleMaisTelZir.Aplicacao.dll
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\FaleMaisTelZir.Dominio.dll
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\FaleMaisTelZir.Infraestrutura.dll
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\Microsoft.Practices.Unity.dll
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\Newtonsoft.Json.dll
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\System.Web.Helpers.dll
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\System.Web.Mvc.dll
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\System.Web.Optimization.dll
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\System.Web.Razor.dll
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\System.Web.WebPages.dll
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\Unity.Mvc5.dll
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\WebGrease.dll
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\FaleMaisTelZir.Aplicacao.pdb
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\FaleMaisTelZir.Dominio.pdb
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\FaleMaisTelZir.Infraestrutura.pdb
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\EntityFramework.xml
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\Microsoft.Practices.Unity.xml
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\System.Web.Helpers.xml
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\System.Web.Mvc.xml
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\System.Web.Optimization.xml
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\System.Web.Razor.xml
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\System.Web.WebPages.xml
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\Antlr3.Runtime.pdb
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\bin\Newtonsoft.Json.xml
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\obj\Debug\FaleMaizTelZir.Mvc.csprojResolveAssemblyReference.cache
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\obj\Debug\FaleMaizTelZir.Mvc.dll
+C:\Users\renanf\Documents\RepositoriosGitHub\IntegracaoContinua\IntegracaoContinua\FaleMaizTelZir.Mvc\obj\Debug\FaleMaizTelZir.Mvc.pdb
